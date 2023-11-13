@@ -1,0 +1,31 @@
+.container {
+    width: 45%;
+    margin: auto auto 3rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    background: white;
+ }
+ 
+ .full-width {
+    width: 100%;
+ }
+ 
+ h1, img, p{
+    text-align: center;
+    margin-bottom: 3rem;
+ }
+ 
+ img {
+   height: 12rem;
+    margin: auto;
+    display: block;
+ }
+ 
+ button {
+    margin-top: .5rem;
+ }
+ 
+ p {
+    margin-top: 3rem;
+    opacity: .5;
+ }

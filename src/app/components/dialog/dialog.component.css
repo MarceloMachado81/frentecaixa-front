@@ -1,0 +1,22 @@
+.mat-dialog-title {
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mat-dialog-content {
+    font-size: 25px;
+    color: red;
+    padding: 2rem 2rem;
+    margin: 2rem 2rem 2rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}

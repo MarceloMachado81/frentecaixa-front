@@ -1,0 +1,22 @@
+.card {
+    width: 90%;
+    margin: 1rem auto;
+    background-color: white;
+}
+
+img {
+    height: 28rem;
+    width: 37rem;
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    width: 100%;    
+    margin-top: 2rem;
+    font-size: 20px;
+ }
